@@ -1,0 +1,14 @@
+D:\Shyam\CleanArch\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Shyam\CleanArch\Domain\bin\Debug\net6.0\Domain.dll
+D:\Shyam\CleanArch\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\Domain.dll
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Shyam\CleanArch\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\Shyam\CleanArch\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
